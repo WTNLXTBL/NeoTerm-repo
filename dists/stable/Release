@@ -1,0 +1,26 @@
+Codename: stable
+Date: Mon, 14 Jun 2021 15:54:21 UTC
+Architectures: aarch64 arm
+Components: main
+Description: neoterm-repository
+MD5Sum:
+ 20b19301fe9236a580f25091a6d9abe9 131604 main/binary-aarch64/Packages
+ 8f98a83cc3ba5f5aa6edbd1a8ddd949d 40555 main/binary-aarch64/Packages.gz
+ 0c2b83eaed21686bc63e8eb197ecec8c 70 main/binary-aarch64/Release
+ 6502d7d22473905a26c66fd961c361f2 8532 main/binary-arm/Packages
+ 56cf43cdaaf97e99fdcfdeeb86eddd51 3217 main/binary-arm/Packages.gz
+ 68989cd9fe11e699f1c5fdd3f10cd858 66 main/binary-arm/Release
+SHA1:
+ e1fa2f66393bea9bc130d28e37ba8454d659e106 131604 main/binary-aarch64/Packages
+ ba711aa015c24cda50a5c635f8add3050cfe3af6 40555 main/binary-aarch64/Packages.gz
+ f2776da2762676dc5548a9265336794171471d32 70 main/binary-aarch64/Release
+ 3f4f88534a5fa9bf7908a9d5123766db36e1708d 8532 main/binary-arm/Packages
+ 6a19dbb62d3212d0925567e9b92b1769afc27561 3217 main/binary-arm/Packages.gz
+ 47a707873d076ec879f4cc9cf3ba2a5babbdceef 66 main/binary-arm/Release
+SHA256:
+ 0c8ad8a102e21fe2a80358ca55b4567e44186dab71fb4e10ae52e30bfd0a3cb1 131604 main/binary-aarch64/Packages
+ 604509dcb7448bf6303fd4a9b005eaa9cc2fc574af2e62642a61d682665f8bd0 40555 main/binary-aarch64/Packages.gz
+ 0738bfbba1f7966e889ea272231a17a9dbc35ed211bd3dc1ba81286f0acd42e0 70 main/binary-aarch64/Release
+ 50d684cbded44ba0c7a1eb0a5d0c08d3b0a50531cd27c866f60e34e4ef61784e 8532 main/binary-arm/Packages
+ d64b508f98ec7b74395b12e94452f20111162026e1c0a0c8e67114550fa05265 3217 main/binary-arm/Packages.gz
+ bba7a2d3e461ae4e9412b6bd138d8a6dcf2c120d4a3585fda9b904534466e315 66 main/binary-arm/Release
