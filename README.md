@@ -1,7 +1,7 @@
 ## NeoTerm apt repo
 ### Repo link
 ```
-https://raw.githubusercontent.com/NeoTerm/NeoTerm-repo/main/ stable main
+https://repo.wtnlxtbl.eu.org/ stable main
 ```
 
 ### Supported architectures
@@ -40,7 +40,7 @@ $ reprepro --ignore=forbiddenchar -S main -P extra includedeb stable ../neoterm-
 #### Get all of current package(s) list (Mainly for neoterm-packages)
 * Get Packages file from apt repo
 ```
-$ wget https://github.com/NeoTerm/NeoTerm-repo/raw/main/dists/stable/main/binary-aarch64/Packages
+$ wget https://github.com/WTNLXTBL/NeoTerm-repo/raw/main/dists/stable/main/binary-aarch64/Packages
 ```
 * Cat packages to file (List)
 ```
